@@ -21,19 +21,19 @@ body{
 }
 
 main{
-    width: 325px;
-    border-radius: 15px;
+    width: 20.313rem;
+    border-radius: 0.938rem;
     background-color: white;
     text-align: center;
 }
 
 .card-bg-img{
     width: 100%;
-    border-radius: 15px 15px 0 0;
+    border-radius: 0.938rem 0.938rem 0 0;
 }
 
 .foto{
-    border: 5px white solid;
+    border: 0.313rem white solid;
     border-radius: 50%;
 }
 
@@ -45,7 +45,7 @@ main{
 }
 
 .personal h1{
-    padding-right: 15px;
+    padding-right: 0,8333333333333334rem;
     font-size: 18px;
     font-weight: 700;
     color: var(--secondary-color);
@@ -65,7 +65,7 @@ aside{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 35px;
+    padding: 2.188rem;
     border-top: 1px var(--tertiary-color) solid;
 }
 
@@ -78,7 +78,7 @@ aside div span:first-child{
     color: var(--secondary-color);
     font-size: 18px;
     font-weight: 700;
-    padding: 10px;
+    padding: 0,5555555555555556rem;
 }
 
 aside div span:nth-child(2){
@@ -89,6 +89,6 @@ aside div span:nth-child(2){
 
 @media (min-width: 500px){
     main{
-        width: 450px;
+        width: 28.125rem;
     }
 }

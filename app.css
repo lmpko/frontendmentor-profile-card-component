@@ -1,0 +1,7 @@
+/* font-family: 'Kumbh Sans', sans-serif; */
+
+:root{
+    --primary-color: hsl(185, 75%, 39%);
+    --secondary-color: hsl(229, 23%, 23%);
+    --tertiary-color: hsl(227, 10%, 46%);
+}
